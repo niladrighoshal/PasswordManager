@@ -2,6 +2,15 @@
 
 A secure and user-friendly password manager that allows users to manage their passwords, generate random passwords, and more.
 
+## SIGN UP PAGE
+![Signup Page](./passwd_pic/signup.png)
+
+## Sign In PAGE
+![Signin Page](./passwd_pic/signin.png)
+
+## FORGOT PASSWORD PAGE
+![Forgot_password Page](./passwd_pic/reset.png)
+
 
 ## Features
 
