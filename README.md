@@ -27,7 +27,7 @@ A secure and user-friendly password manager that allows users to manage their pa
 1. Clone the repository:
 
    ```
-   https://github.com/niladrighoshal/PasswordManager       ```
+   https://github.com/niladrighoshal/PasswordManager  
 ```
    cd PasswordManager
  ```
